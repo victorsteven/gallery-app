@@ -44,5 +44,21 @@ func GetImages() []Image {
 			8,
 			"https://res.cloudinary.com/chikodi/image/upload/v1601633704/jaber-ahmed-SIRrK_oox2M-unsplash.jpg",
 		},
+		{
+			9,
+			"https://res.cloudinary.com/chikodi/image/upload/v1601690048/alvin-lenin-QA7KTyc3G5Y-unsplash.jpg",
+		},
+		{
+			10,
+			"https://res.cloudinary.com/chikodi/image/upload/v1601690047/andrew-reshetov-JeJIA7SFRRI-unsplash.jpg",
+		},
+		{
+			11,
+			"https://res.cloudinary.com/chikodi/image/upload/v1601690284/jocke-wulcan-3jnMoTB2mD8-unsplash.jpg",
+		},
+		{
+			12,
+			"https://res.cloudinary.com/chikodi/image/upload/v1601690043/billy-cox-EMQlFWKASTg-unsplash.jpg",
+		},
 	}
 }
