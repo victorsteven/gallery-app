@@ -48,5 +48,7 @@ localhost:8080
 ```
 ![image here](https://res.cloudinary.com/chikodi/image/upload/v1601689035/Screenshot_2020-10-03_at_02.36.09.png)
 
+![image here](https://res.cloudinary.com/chikodi/image/upload/v1607031637/segmed_invitation.png)
+
 ### Customization
 - If you wish to change the port the server listens to, you will need to change that in the ``.env`` file in the server directory and also in the ``src/.env.js`` file in the client directory.
